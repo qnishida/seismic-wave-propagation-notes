@@ -1,0 +1,32 @@
+# 地震波動論I - Seismic Wave Theory I
+
+このディレクトリは、テキスト「地震波動論I」の公開版PDFおよび閲覧ガイドを含みます。
+
+日本語版と英語版の両方が利用可能です。
+
+## 📚 Available Versions
+
+### 🇯🇵 [日本語版 (Japanese Edition)](./Hadoron_jp.md)
+地震波動論I の日本語テキスト全章、各章ごとの PDF ダウンロードリンク。
+
+### 🇬🇧 [English Edition](./Hadoron_en.md)
+Seismic Wave Theory I - Complete English translation with chapter-by-chapter PDF links.
+
+---
+
+## ℹ️ About This Repository
+
+- **Language**: Japanese (Hadoron) and English (Hadoron_Eng)
+- **Format**: LaTeX (pLaTeX2e) source + compiled PDF
+- **Hosting**: GitHub Pages
+- **Last Updated**: See individual edition pages
+
+## 📖 How to Use
+
+1. **Online Reading**: Click on the edition link above (Japanese or English)
+2. **PDF Download**: Direct PDF links are provided for each chapter and the complete edition
+3. **Full Edition**: Download the complete textbook (all chapters combined)
+
+---
+
+**Note**: These PDFs are generated from the latest LaTeX source. For the most up-to-date content, please visit the [GitHub repository](https://github.com/qnishida/Hadoron).

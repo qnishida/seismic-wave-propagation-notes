@@ -1,0 +1,64 @@
+{
+  "chapters_jp": [
+    {
+      "id": "Intro",
+      "jp_name": "序論・基礎",
+      "en_name": "Introduction and Fundamentals",
+      "file": "Intro/Introduction"
+    },
+    {
+      "id": "Eqs",
+      "jp_name": "地球の構成式",
+      "en_name": "Equations for the Earth",
+      "file": "Eqs/Eqs_for_the_Earth"
+    },
+    {
+      "id": "Green",
+      "jp_name": "Green 関数と表現定理",
+      "en_name": "Green's Function and Representation Theorem",
+      "file": "Eqs/Green"
+    },
+    {
+      "id": "Source",
+      "jp_name": "震源理論",
+      "en_name": "Source Theory",
+      "file": "Eqs/Source"
+    },
+    {
+      "id": "PlaneWave",
+      "jp_name": "平面波",
+      "en_name": "Plane Waves",
+      "file": "PlaneWave/PlaneWave"
+    },
+    {
+      "id": "TwoLayer",
+      "jp_name": "二層構造",
+      "en_name": "Two-Layer Structure",
+      "file": "Two/TwoLayer"
+    },
+    {
+      "id": "Ray",
+      "jp_name": "光学幾何論（レイ理論）",
+      "en_name": "Ray Theory (Geometric Optics)",
+      "file": "Ray/Ray"
+    },
+    {
+      "id": "NormalMode",
+      "jp_name": "自由振動・固有モード",
+      "en_name": "Free Oscillations and Normal Modes",
+      "file": "NormalMode/NormalMode"
+    },
+    {
+      "id": "Fluid",
+      "jp_name": "流体球での波動",
+      "en_name": "Wave Propagation in a Fluid Sphere",
+      "file": "Fluid/Fluid"
+    },
+    {
+      "id": "SI",
+      "jp_name": "国際単位系と物理定数",
+      "en_name": "SI Units and Physical Constants",
+      "file": "SI/SI"
+    }
+  ]
+}
