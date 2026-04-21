@@ -29,4 +29,9 @@ Seismic Wave Theory I - Complete English translation with chapter-by-chapter PDF
 
 ---
 
-**Note**: These PDFs are generated from the latest LaTeX source. For the most up-to-date content, please visit the [GitHub repository](https://github.com/qnishida/Hadoron).
+## 利用規約 / Terms of Use
+
+本講義ノートの利用条件は LICENSE.md に記載しています。
+
+- [利用規約 / License and Terms (LICENSE.md)](./LICENSE.md)
+
