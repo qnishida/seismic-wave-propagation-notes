@@ -1,8 +1,9 @@
-# 地震波動論 - A theory of seismic wave propagations
+# 地震波動論 - A theory of seismic wave propagations 
 
-このディレクトリは、テキスト「地震波動論I」の公開版PDFおよび閲覧ガイドを含みます。
-
+このディレクトリは、テキスト「地震波動論」の公開版PDFおよび閲覧ガイドを含みます。
 日本語版と英語版の両方が利用可能です。
+
+This directory contains the PDF version of the lecture notes "A theory of seismic wave propagations".
 
 ## 📚 Available Versions
 
