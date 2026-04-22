@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these lecture notes, please cite them as below."
+authors:
+  - family-names: "Nishida"
+    given-names: "Kiwamu"
+    affiliation: "Earthquake Research Institute, The University of Tokyo"
+    # orcid: "https://orcid.org/0000-0000-0000-0000" # Uncomment and replace if you have an ORCID
+title: "A theory of seismic wave propagations"
+version: "1.0.0"
+# doi: "10.5281/zenodo.XXXXXXX" # Replace with your actual Zenodo Concept DOI after release
+date-released: "2026-04-22"
+url: "https://github.com/qnishida/seismic-wave-propagation-notes"
+repository-code: "https://github.com/qnishida/seismic-wave-propagation-notes"
+license: "CC-BY-NC-4.0"
