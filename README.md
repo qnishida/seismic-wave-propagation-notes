@@ -30,6 +30,18 @@ A theory of seismic wave propagations (Lecture notes) - Complete English transla
 
 ---
 
+## 🎓 How to Cite
+
+If you use these lecture notes or the associated materials in your research, please cite them as follows:
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.XXXXXXX-blue.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+
+> Nishida, K. (2026). A theory of seismic wave propagations. https://doi.org/10.5281/zenodo.XXXXXXX
+
+Alternatively, you can use the "Cite this repository" button on the GitHub sidebar to export the citation in BibTeX or APA format (using the `CITATION.cff` file).
+
+---
+
 ## 利用規約 / Terms of Use
 
 本講義ノートの利用条件は LICENSE.md に記載しています。

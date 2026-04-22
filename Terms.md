@@ -11,7 +11,7 @@
 
 免責事項: 内容の正確性には万全を期しておりますが、利用に伴う損害について著者は責任を負いかねます。
 
-引用: 参照の際は「西田 (2026), 地震波動論 講義ノート, [URL]」のように出典を明記してください。
+引用: 引用方法については、トップの README.md を参照してください。
 
 ※誤植等のご指摘は、GitHub Issues または連絡先までお寄せください。
 
@@ -30,6 +30,6 @@ Prohibitions:
 
 Disclaimer: While every effort has been made to ensure accuracy, the author assumes no responsibility for any damages arising from the use of this material.
 
-Citation: When citing this material, please use the following format: "Nishida (2026), Lecture Notes on Theoretical Seismology, [URL]".
+Citation: Please refer to the README.md in the repository root for citation instructions.
 
 *To report errata, please use GitHub Issues or contact the author directly.*
