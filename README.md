@@ -1,17 +1,17 @@
-# 地震波動論 - A theory of seismic wave propagations 
+# 地震波動伝播の物理 - Physics of seismic wave propagations
 
-このディレクトリは、テキスト「地震波動論」の公開版PDFおよび閲覧ガイドを含みます。
+このディレクトリは、テキスト「地震波動伝播の物理」の公開版PDFおよび閲覧ガイドを含みます。
 日本語版と英語版の両方が利用可能です。
 
-This directory contains the PDF version of the lecture notes "A theory of seismic wave propagations".
+This directory contains the PDF version of the lecture notes "Physics of seismic wave propagations".
 
 ## 📚 Available Versions
 
 ### 🇯🇵 [日本語版 (Japanese Edition)](./Hadoron_jp.md)
-地震波動論 の日本語テキスト全章、各章ごとの PDF ダウンロードリンク。
+「地震波動伝播の物理」の日本語テキスト全章、各章ごとの PDF ダウンロードリンク。
 
 ### 🇬🇧 [English Edition](./Hadoron_en.md)
-A theory of seismic wave propagations (Lecture notes) - Complete English translation with chapter-by-chapter PDF links.
+Physics of seismic wave propagations (Lecture notes) - Complete English translation with chapter-by-chapter PDF links.
 
 ---
 
@@ -36,7 +36,7 @@ If you use these lecture notes or the associated materials in your research, ple
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.XXXXXXX-blue.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
-> Nishida, K. (2026). A theory of seismic wave propagations. https://doi.org/10.5281/zenodo.XXXXXXX
+> Nishida, K. (2026). Physics of seismic wave propagations. https://doi.org/10.5281/zenodo.XXXXXXX
 
 Alternatively, you can use the "Cite this repository" button on the GitHub sidebar to export the citation in BibTeX or APA format (using the `CITATION.cff` file).
 
@@ -47,4 +47,3 @@ Alternatively, you can use the "Cite this repository" button on the GitHub sideb
 本講義ノートの利用条件は LICENSE.md に記載しています。
 
 - [利用規約 / License and Terms (Terms.md)](./Terms.md)
-
