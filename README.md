@@ -1,10 +1,7 @@
-# 地震波動伝播の物理 - Physics of Seismic Wave Propagations
+# 地震波動伝播の物理 / Physics of Seismic Wave Propagations
 
-[西田究](https://www.eri.u-tokyo.ac.jp/people/knishida/), 東京大学地震研究所<br>
-2026年8月3日
-
-[Kiwamu Nishida](https://www.eri.u-tokyo.ac.jp/people/knishida/eng/index.html), Earthquake Research Institute, The University of Tokyo<br>
-August 3, 2026
+[西田究](https://www.eri.u-tokyo.ac.jp/people/knishida/) / [Kiwamu Nishida](https://www.eri.u-tokyo.ac.jp/people/knishida/eng/index.html)<br>
+2026年8月3日 / August 3, 2026
 
 このディレクトリは、テキスト「地震波動伝播の物理」の公開版PDFおよび閲覧ガイドを含みます。
 日本語版と英語版の両方が利用可能です。
