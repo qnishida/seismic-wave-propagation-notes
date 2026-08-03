@@ -2,11 +2,12 @@
 *地震波形を読み解くために*
 [西田究](https://www.eri.u-tokyo.ac.jp/people/knishida/), 東京大学地震研究所<br>
 
-**Last Updated**: 2026-08-03 20:43:42
+**Last Updated**: 2026-08-03 21:18:12
 
 ## 全体PDF
 
 - [Lec1_full.pdf](pdf_jp/Lec1_full.pdf)
+- DOI: [10.5281/zenodo.21773891](https://doi.org/10.5281/zenodo.21773891)
 
 ## 章ごとのPDF
 

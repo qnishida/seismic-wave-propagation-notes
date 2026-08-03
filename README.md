@@ -37,9 +37,9 @@ Physics of seismic wave propagations (Lecture notes) - Complete English translat
 
 If you use these lecture notes or the associated materials in your research, please cite them as follows:
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.XXXXXXX-blue.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1216940563.svg)](https://doi.org/10.5281/zenodo.21773891)
 
-> Nishida, K. (2026). Physics of seismic wave propagations. https://doi.org/10.5281/zenodo.XXXXXXX
+> Nishida, K. (2026). *Physics of seismic wave propagations*. https://doi.org/10.5281/zenodo.21773891
 
 Alternatively, you can use the "Cite this repository" button on the GitHub sidebar to export the citation in BibTeX or APA format (using the `CITATION.cff` file).
 
