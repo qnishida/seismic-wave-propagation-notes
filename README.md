@@ -5,7 +5,7 @@
 *地震波形を読み解くために*
 
 西田究 — [東京大学地震研究所](https://www.eri.u-tokyo.ac.jp/people/knishida/)<br>
-2026年8月2日
+2026年8月3日
 
 ## English edition
 
