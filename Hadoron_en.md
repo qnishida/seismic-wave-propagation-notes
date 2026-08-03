@@ -1,6 +1,6 @@
 # Physics of seismic wave propagations (English)
 
-**Last Updated**: 2026-08-03 15:39:54
+**Last Updated**: 2026-08-03 18:44:59
 
 ## Full PDF
 
