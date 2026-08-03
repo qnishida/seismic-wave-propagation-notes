@@ -1,6 +1,8 @@
 # Physics of seismic wave propagations (English)
+*To decipher seismic waveforms*
+[Kiwamu Nishida](https://www.eri.u-tokyo.ac.jp/people/knishida/eng/index.html), Earthquake Research Institute, The University of Tokyo<br>
 
-**Last Updated**: 2026-08-03 19:21:47
+**Last Updated**: 2026-08-03 19:47:37
 
 ## Full PDF
 
@@ -18,3 +20,5 @@
 - [Normal Modes](pdf_en/NormalMode.pdf)
 - [Waves in Fluids](pdf_en/Fluid.pdf)
 - [Seismic Interferometry\index{seismic interferometry](pdf_en/SI.pdf)
+
+[Main page](./README.md)

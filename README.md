@@ -1,17 +1,9 @@
 # 地震波動伝播の物理 - Physics of Seismic Wave Propagations
 
-## 日本語版
-
-*地震波形を読み解くために*
-
-西田究 — [東京大学地震研究所](https://www.eri.u-tokyo.ac.jp/people/knishida/)<br>
+[西田究](https://www.eri.u-tokyo.ac.jp/people/knishida/), 東京大学地震研究所<br>
 2026年8月3日
 
-## English edition
-
-*To decipher seismic waveforms*
-
-Kiwamu Nishida — [Earthquake Research Institute, The University of Tokyo](https://www.eri.u-tokyo.ac.jp/people/knishida/eng/index.html)<br>
+[Kiwamu Nishida](https://www.eri.u-tokyo.ac.jp/people/knishida/eng/index.html), Earthquake Research Institute, The University of Tokyo<br>
 August 3, 2026
 
 このディレクトリは、テキスト「地震波動伝播の物理」の公開版PDFおよび閲覧ガイドを含みます。

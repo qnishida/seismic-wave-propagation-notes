@@ -1,6 +1,8 @@
 # 地震波動伝播の物理 (日本語版)
+*地震波形を読み解くために*
+[西田究](https://www.eri.u-tokyo.ac.jp/people/knishida/), 東京大学地震研究所<br>
 
-**Last Updated**: 2026-08-03 19:21:47
+**Last Updated**: 2026-08-03 19:47:37
 
 ## 全体PDF
 
@@ -18,3 +20,5 @@
 - [正規モード](pdf_jp/NormalMode.pdf)
 - [流体中の波](pdf_jp/Fluid.pdf)
 - [地震波干渉法](pdf_jp/SI.pdf)
+
+[メインページ](./README.md)
