@@ -1,8 +1,8 @@
-# 地震波動伝播の物理 (日本語版)
+# 地震波伝播の物理 (日本語版)
 *地震波形を読み解くために*
 [西田究](https://www.eri.u-tokyo.ac.jp/people/knishida/), 東京大学地震研究所<br>
 
-**Last Updated**: 2026-08-03 19:47:37
+**Last Updated**: 2026-08-03 20:43:42
 
 ## 全体PDF
 

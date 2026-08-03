@@ -1,9 +1,9 @@
-# 地震波動伝播の物理 / Physics of Seismic Wave Propagations
+# 地震波伝播の物理 / Physics of Seismic Wave Propagations
 
 [西田究](https://www.eri.u-tokyo.ac.jp/people/knishida/) / [Kiwamu Nishida](https://www.eri.u-tokyo.ac.jp/people/knishida/eng/index.html)<br>
 2026年8月3日 / August 3, 2026
 
-このディレクトリは、テキスト「地震波動伝播の物理」の公開版PDFおよび閲覧ガイドを含みます。
+このディレクトリは、テキスト「地震波伝播の物理」の公開版PDFおよび閲覧ガイドを含みます。
 日本語版と英語版の両方が利用可能です。
 
 This directory contains the PDF version of the lecture notes "Physics of seismic wave propagations".
@@ -11,7 +11,7 @@ This directory contains the PDF version of the lecture notes "Physics of seismic
 ## 📚 Available Versions
 
 ### 🇯🇵 [日本語版 (Japanese Edition)](./Hadoron_jp.md)
-「地震波動伝播の物理」の日本語テキスト全章、各章ごとの PDF ダウンロードリンク。
+「地震波伝播の物理」の日本語テキスト全章、各章ごとの PDF ダウンロードリンク。
 
 ### 🇬🇧 [English Edition](./Hadoron_en.md)
 Physics of seismic wave propagations (Lecture notes) - Complete English translation with chapter-by-chapter PDF links.
@@ -22,7 +22,7 @@ Physics of seismic wave propagations (Lecture notes) - Complete English translat
 
 - **Language**: Japanese and English
 - **Format**:  PDF
-- **Hosting**: GitHub Pages
+- **Hosting**: GitHub repository
 - **Last Updated**: See individual edition pages
 
 ## 📖 How to Use

@@ -8,7 +8,7 @@ authors:
 title: "Physics of seismic wave propagations"
 version: "1.0.0"
 # doi: "10.5281/zenodo.XXXXXXX" # Replace with your actual Zenodo Concept DOI after release
-date-released: "2026-04-22"
+date-released: "2026-08-03"
 url: "https://github.com/qnishida/seismic-wave-propagation-notes"
 repository-code: "https://github.com/qnishida/seismic-wave-propagation-notes"
 license: "CC-BY-NC-4.0"
