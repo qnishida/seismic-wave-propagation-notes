@@ -2,7 +2,7 @@
 *To decipher seismic waveforms*
 [Kiwamu Nishida](https://www.eri.u-tokyo.ac.jp/people/knishida/eng/index.html), Earthquake Research Institute, The University of Tokyo<br>
 
-**Last Updated**: 2026-08-03 21:16:59
+**Last Updated**: 2026-08-04 13:54:38
 
 ## Full PDF
 
