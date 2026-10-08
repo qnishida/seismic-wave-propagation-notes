@@ -2,7 +2,7 @@
 *To decipher seismic waveforms*
 [Kiwamu Nishida](https://www.eri.u-tokyo.ac.jp/people/knishida/eng/index.html), Earthquake Research Institute, The University of Tokyo<br>
 
-**Last Updated**: 2026-08-04 13:54:38
+**Last Updated**: 2026-10-08 22:13:29
 
 ## Full PDF
 
@@ -13,13 +13,13 @@
 
 - [Introduction](pdf_en/Intro.pdf)
 - [Equations for the elastic Earth](pdf_en/Eqs.pdf)
-- [Green's function and representation theorem\index{representation theorem](pdf_en/Green.pdf)
+- [Green's function and representation theorem](pdf_en/Green.pdf)
 - [Excitation of Seismic Waves](pdf_en/Source.pdf)
 - [Elastic wave propagation in a half space](pdf_en/PlaneWave.pdf)
-- [SH-wave propagation from a point source in a medium with two layers](pdf_en/TwoLayer.pdf)
-- [Ray theory\index{ray theory](pdf_en/Ray.pdf)
+- [Seismic-wave propagation in a two-layer medium](pdf_en/TwoLayer.pdf)
+- [Ray theory](pdf_en/Ray.pdf)
 - [Normal Modes](pdf_en/NormalMode.pdf)
 - [Waves in Fluids](pdf_en/Fluid.pdf)
-- [Seismic Interferometry\index{seismic interferometry](pdf_en/SI.pdf)
+- [Seismic Interferometry](pdf_en/SI.pdf)
 
 [Main page](./README.md)
