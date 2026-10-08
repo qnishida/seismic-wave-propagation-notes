@@ -2,7 +2,7 @@
 *地震波形を読み解くために*
 [西田究](https://www.eri.u-tokyo.ac.jp/people/knishida/), 東京大学地震研究所<br>
 
-**Last Updated**: 2026-10-08 22:13:29
+**Last Updated**: 2026-10-09 00:40:43
 
 ## 全体PDF
 
